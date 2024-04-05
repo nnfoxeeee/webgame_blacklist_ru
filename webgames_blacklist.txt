@@ -1,3 +1,4 @@
+#   # # # # # # # # # # # # # # # # # # # # # # # # # # #  #
 #      ___                       ___           ___         #
 #     /\  \          ___        /\  \         /\__\        #
 #     \:\  \        /\  \      /::\  \       /:/  /        #
@@ -9,13 +10,13 @@
 #   \/__/        \:\__\           \/__/      |:|  |        #
 #                 \/__/                      |:|  |        #
 #                                             \|__|        #
-# Web-Games list by nullfoxe/                              #
+# Web-Games list by nullfoxe/# # # # # # # # # # # # # # # # 
 ||static.vseigru.net^
 ||vseigru.net^
 #
 ||vkplay.ru^
 #
-||roblox.com
+||roblox.com^
 #
 ||igroutka.ru^
 #
@@ -101,25 +102,15 @@
 #
 ||onlineigry.net^
 #
-||^
+||pikuco.ru^
 #
-||^
+||slitherio.online^
 #
-||^
+||www.ourgames.ru^
 #
-||^
+||igry-zlo.ru^
 #
-||^
+||quizterra.ru^
 #
-||^
-#
-||^
-#
-||^
-#
-||^
-#
-||^
-#
-||^
+||amogus.io^
 #
