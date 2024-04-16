@@ -118,3 +118,13 @@
 #
 ||amogus.io^
 #
+||www.rockstargames.com^
+#
+||store.epicgames.com^
+#
+||ru.dotabuff.com^
+#
+||totaljerkface.com^
+#
+||happy-wheels.co^
+#
